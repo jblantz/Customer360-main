@@ -1,0 +1,6 @@
+dependencies:
+- name: devops
+  repository: https://helm.pingidentity.com/devops
+  version: 0.1.1
+digest: sha256:cb0d69a8bd801b2370b4e4f75ca3732cb3237f8da9d9835ed00cbee11c956ed2
+generated: "2020-11-03T15:02:23.280425-08:00"

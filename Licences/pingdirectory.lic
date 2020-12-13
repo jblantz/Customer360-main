@@ -1,0 +1,10 @@
+ID=00097125
+Product=PingDirectory
+Version=8.2
+EnforcementType=3
+Tier=Free
+IssueDate=2020-12-12
+ExpirationDate=2021-12-11
+DeploymentMethod=Traditional
+SignCode=FF
+Signature=302C0214519B8B0F734BB54B231E5A2DAD145156F4BD9B510214634613AF3EBE74D6F426B1CAE59F8FF040F4D37E

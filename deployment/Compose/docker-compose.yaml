@@ -43,6 +43,9 @@ services:
     environment:
       - SERVER_PROFILE_URL=https://github.com/pingidentity/Customer360.git
       - SERVER_PROFILE_PATH=pingdatasync
+      - SERVER_PROFILE_PARENT=LICENSE
+      - SERVER_PROFILE_LICENSE_URL=https://github.com/jblantz/Customer360-main
+      - SERVER_PROFILE_LICENSE_PATH=licenses/pingdirectory
     env_file:
       - ./env-vars   
     secrets:
